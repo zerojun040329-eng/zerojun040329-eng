@@ -4,6 +4,7 @@
 ### 전공: 컴퓨터공학과
 
 * 연락처 : 010-6611-7306
+>email : magarminx51@naver.com
 <!--
 **zerojun040329-eng/zerojun040329-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
