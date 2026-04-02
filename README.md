@@ -1,6 +1,9 @@
-## Hi there 👋
 
-### Yeah bangapno YungNamDaeHakKyo 23HakBun IpNiDa
+### 이름: 남영준
+# 학력: 영남대학교 23학번, 2학년 재학중입니다.
+# 전공: 컴퓨터공학과
+
+* 연락처 : 010-6611-7306 *
 <!--
 **zerojun040329-eng/zerojun040329-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
